@@ -1,4 +1,4 @@
 # spotify-stats
 
-![My Image](Images/simple-plot.jpg)
 
+![simple-plot](Images/simple-plot.jpg)
