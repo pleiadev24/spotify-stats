@@ -8,5 +8,5 @@ dataFrame = pd.DataFrame(
       "name": ['Rockstar','Blinding Lights'],"danceability": [0.585,0.514],"tempo": [0.585,171.005]
    }
 )
-plt.plot(dataFrame["danceability"], dataFrame["name"])
+plt.plot(dataFrame["danceability"], dataFrame["tempo"])
 plt.show()
