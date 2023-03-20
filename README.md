@@ -6,4 +6,4 @@ Mathplotliv is a comprehensive library for creating static, animated, and intera
 
 Created a simple plot with two values from the dataset.
 Danceability and tempo are directly related. 
-![simple-plot](images/simple_plot.png)
+![simple-plot](Images/simple--plot.png)
