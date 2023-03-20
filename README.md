@@ -1,4 +1,4 @@
-# H1 spotify-stats
+spotify-stats
 
 Project to learn Pandas and matplotlib
 
