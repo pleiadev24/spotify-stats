@@ -1,0 +1,12 @@
+# Simple plot with 2 values
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+dataFrame = pd.DataFrame(
+   {
+      "name": ['Rockstar','Blinding Lights'],"danceability": [0.585,0.514],"tempo": [0.585,171.005]
+   }
+)
+plt.plot(dataFrame["danceability"], dataFrame["name"])
+plt.show()
