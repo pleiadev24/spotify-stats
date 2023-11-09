@@ -1,4 +1,4 @@
-#Case Study - Spotify Data Analysis 🎵🎹🎸
+# Case Study - Spotify Data Analysis 🎵🎹🎸
 
 ### Top Songs by Streams:📈
 Blinding Lights by The Weeknd is the most-streamed song with 3.449 billion streams, followed closely by Shape of You by Ed Sheeran with 3.398 billion streams.
